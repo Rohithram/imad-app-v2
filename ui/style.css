@@ -1,4 +1,4 @@
-head{
+
 body {
     font-family: sans-serif;
     background-color: orange;
@@ -21,3 +21,16 @@ body {
     height: 200px;
 }
 
+.content{
+    font-family: comin-sans;
+    background-color:grey;
+    margin-top:60px;
+}
+#intro{
+    color:magenta;
+    background-color:orange;
+}
+#main{
+    color:cyan;
+    background-color: green;
+}
