@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/article_one', function (req, res) {
-  res.sendFile(path.join('article1.html'));
+  res.sendFile(path.join(__dirname,'imad-app-v2' ,'article1.html'));
 });
 
 app.get('/article_two', function (req, res) {
