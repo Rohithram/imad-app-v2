@@ -23,14 +23,16 @@ body {
 
 .content{
     font-family: comin-sans;
-    background-color:grey;
+    background-color:lightgrey;
     margin-top:60px;
+    padding-left:60px;
+    padding-right:60px;
 }
 #intro{
-    color:magenta;
-    background-color:orange;
+    color:black;
+
 }
 #main{
-    color:cyan;
-    background-color: green;
+    color:black;
+    
 }
