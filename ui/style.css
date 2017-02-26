@@ -1,6 +1,7 @@
 
 body {
     font-family: sans-serif;
+   background-color:lightgrey;
     margin-top: 100px;
 }
 
@@ -22,15 +23,12 @@ body {
 
 .content{
     font-family: comin-sans;
-    background-color:lightgrey;
     margin-top:60px;
     padding-left:600px;
     padding-right:600px;
 }
 #intro{
-    color:black;
-
-}
+    color:black;}
 #main{
     color:black;
     
